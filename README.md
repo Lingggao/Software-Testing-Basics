@@ -6,7 +6,7 @@
 [![CC0-1.0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/Lingggao/Software-Testing-Basics/blob/master/LICENSE)
 
 > 作者 - **Ling Gao (高楷修)**  
-> 师承 - **XiaoPeng Li (李晓鹏)**  
+> 师承 - **XiaoPeng Li (李晓鹏) | HongXing Cao (曹红杏)**  
 > 学校 - **HNIST (湖南理工学院)**  
 > 许可证 - **Creative Commons Zero v1.0 Universal**
 
