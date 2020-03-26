@@ -19,7 +19,12 @@
 	- [二、中国软件测试发展历程（截止至 2013 年）](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_1_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2.md#%E4%BA%8C%E4%B8%AD%E5%9B%BD%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B%E6%88%AA%E6%AD%A2%E8%87%B3-2013-%E5%B9%B4)
 	- [三、软件测试人才](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_1_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2.md#%E4%B8%89%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E4%BA%BA%E6%89%8D)
 	- [四、软件测试晋升路线](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_1_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2.md#%E5%9B%9B%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E6%99%8B%E5%8D%87%E8%B7%AF%E7%BA%BF)
-- [**§ 1.2 - [即将学习]**]()
+- [**§ 1.2 - 软件测试的定义、目的、对象与分类**]()
+	- [一、定义]()
+	- [二、目的]()
+	- [三、对象]()
+	- [四、分类]()
+- [**§ 1.3 - [即将学习]**]()
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80)
