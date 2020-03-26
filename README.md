@@ -2,8 +2,9 @@
 
 **Ling Gao 的软件测试基础学习笔记** :stuck_out_tongue_closed_eyes:
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://en.wikipedia.org/wiki/Markdown) 
-[![CC0-1.0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://github.com/Lingggao/Software-Testing-Basics/blob/master/LICENSE)
+[![Ling Gao](https://img.shields.io/badge/Author-Ling_Gao-blue)](https://answers.microsoft.com/zh-hans/profile/4e1113c0-eb29-4e90-9782-f1931bae8489)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-blue.svg)](https://en.wikipedia.org/wiki/Markdown) 
+[![CC0-1.0 license](https://img.shields.io/badge/License-Creative_Commons_Zero-blue.svg)](https://github.com/Lingggao/Software-Testing-Basics/blob/master/LICENSE)
 
 > 作者 - **Ling Gao (高楷修)**  
 > 师承 - **XiaoPeng Li (李晓鹏) | HongXing Cao (曹红杏)**  
