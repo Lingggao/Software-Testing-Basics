@@ -28,11 +28,11 @@
 	- [一、软件测试流程](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_3_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83.md#%E4%B8%80%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E6%B5%81%E7%A8%8B)
 	- [二、测试环境概述](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_3_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83.md#%E4%BA%8C%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E6%A6%82%E8%BF%B0)
 	- [三、测试环境搭建原则](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_3_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83.md#%E4%B8%89%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E5%8E%9F%E5%88%99)
-- [**§ 1.4 - 软件测试的时间、信息流程与周期性**]()
-	- [一、软件生命周期]()
-	- [二、软件测试时间]()
-	- [三、测试信息流程]()
-	- [四、软件测试周期性]()
+- [**§ 1.4 - 软件测试的时间、信息流程与周期性**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E6%97%B6%E9%97%B4%E3%80%81%E4%BF%A1%E6%81%AF%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7.md#-14---%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E6%97%B6%E9%97%B4%E4%BF%A1%E6%81%AF%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7)
+	- [一、软件生命周期](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E6%97%B6%E9%97%B4%E3%80%81%E4%BF%A1%E6%81%AF%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7.md#%E4%B8%80%E8%BD%AF%E4%BB%B6%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
+	- [二、软件测试时间](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E6%97%B6%E9%97%B4%E3%80%81%E4%BF%A1%E6%81%AF%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7.md#%E4%BA%8C%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E6%97%B6%E9%97%B4)
+	- [三、测试信息流程](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E6%97%B6%E9%97%B4%E3%80%81%E4%BF%A1%E6%81%AF%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7.md#%E4%B8%89%E6%B5%8B%E8%AF%95%E4%BF%A1%E6%81%AF%E6%B5%81%E7%A8%8B)
+	- [四、软件测试周期性](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E6%97%B6%E9%97%B4%E3%80%81%E4%BF%A1%E6%81%AF%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7.md#%E5%9B%9B%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%91%A8%E6%9C%9F%E6%80%A7)
 - [**§ 1.5 - [整理中]**](https://github.com/Lingggao/Software-Testing-Basics)
 
 ---
