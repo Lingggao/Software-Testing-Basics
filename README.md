@@ -34,7 +34,10 @@
 	- [二、软件测试时间](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E6%97%B6%E9%97%B4%E3%80%81%E4%BF%A1%E6%81%AF%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7.md#%E4%BA%8C%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E6%97%B6%E9%97%B4)
 	- [三、测试信息流程](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E6%97%B6%E9%97%B4%E3%80%81%E4%BF%A1%E6%81%AF%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7.md#%E4%B8%89%E6%B5%8B%E8%AF%95%E4%BF%A1%E6%81%AF%E6%B5%81%E7%A8%8B)
 	- [四、软件测试周期性](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E6%97%B6%E9%97%B4%E3%80%81%E4%BF%A1%E6%81%AF%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7.md#%E5%9B%9B%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%91%A8%E6%9C%9F%E6%80%A7)
-- [**§ 1.5 - [整理中]**](https://github.com/Lingggao/Software-Testing-Basics)
+- [**§ 1.5 - 软件测试的停止依据**]()
+	- [一、推荐依据]()
+	- [二、推荐标准]()
+- [**§ 1.6 - [整理中]**](https://github.com/Lingggao/Software-Testing-Basics)
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80)
