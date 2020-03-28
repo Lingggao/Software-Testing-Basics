@@ -40,7 +40,11 @@
 - [**§ 1.6 - 软件测试的原则**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_6_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%8E%9F%E5%88%99.md#-16---%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%8E%9F%E5%88%99)
 	- [一、基本原则](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_6_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%8E%9F%E5%88%99.md#%E4%B8%80%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99)
 	- [二、补充原则](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_6_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%8E%9F%E5%88%99.md#%E4%BA%8C%E8%A1%A5%E5%85%85%E5%8E%9F%E5%88%99)
-- [**§ 1.7 - 软件的开发与测试模型**](https://github.com/Lingggao/Software-Testing-Basics)
+- [**§ 1.7 - 软件的开发与测试模型**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_7_%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9E%8B.md#-17---%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9E%8B)
+	- [一、软件项目开发过程分解图](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_7_%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9E%8B.md#%E4%B8%80%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B%E5%88%86%E8%A7%A3%E5%9B%BE)
+	- [二、软件项目成员与角色](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_7_%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9E%8B.md#%E4%BA%8C%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E6%88%90%E5%91%98%E4%B8%8E%E8%A7%92%E8%89%B2)
+	- [三、软件开发模型](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_7_%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9E%8B.md#%E4%B8%89%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E6%A8%A1%E5%9E%8B)
+	- [四、软件测试模型](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_7_%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9E%8B.md#%E5%9B%9B%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9E%8B)
 - [**§ 1.8 - [整理中]**](https://github.com/Lingggao/Software-Testing-Basics)
 
 ---
