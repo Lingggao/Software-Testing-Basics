@@ -42,9 +42,9 @@
 	- [一、推荐依据](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_5_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%81%9C%E6%AD%A2%E4%BE%9D%E6%8D%AE.md#%E4%B8%80%E6%8E%A8%E8%8D%90%E4%BE%9D%E6%8D%AE)
 	- [二、推荐标准](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_5_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%81%9C%E6%AD%A2%E4%BE%9D%E6%8D%AE.md#%E4%BA%8C%E6%8E%A8%E8%8D%90%E6%A0%87%E5%87%86)
 
-- [**§ 1.6 - 软件测试的原则**]()
-	- [一、基本原则]()
-	- [二、补充原则]()
+- [**§ 1.6 - 软件测试的原则**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_6_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%8E%9F%E5%88%99.md#-16---%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%8E%9F%E5%88%99)
+	- [一、基本原则](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_6_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%8E%9F%E5%88%99.md#%E4%B8%80%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99)
+	- [二、补充原则](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_6_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%8E%9F%E5%88%99.md#%E4%BA%8C%E8%A1%A5%E5%85%85%E5%8E%9F%E5%88%99)
 
 - [**§ 1.7 - [整理中]**](https://github.com/Lingggao/Software-Testing-Basics)
 
