@@ -11,9 +11,9 @@
 > 学校 - **HNIST (湖南理工学院)**  
 > 许可证 - **Creative Commons Zero v1.0 Universal**
 
-## 目录
+## 目 录
 
-### 第一章
+### 第 一 章
 
 - [**§ 1.1 - 软件测试发展史**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_1_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2.md#-11---%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2)
 	- [一、软件测试行业发展历程](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_1_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2.md#%E4%B8%80%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B)
