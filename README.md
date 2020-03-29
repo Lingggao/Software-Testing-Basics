@@ -45,7 +45,12 @@
 	- [二、软件项目成员与角色](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_7_%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9E%8B.md#%E4%BA%8C%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E6%88%90%E5%91%98%E4%B8%8E%E8%A7%92%E8%89%B2)
 	- [三、软件开发模型](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_7_%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9E%8B.md#%E4%B8%89%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E6%A8%A1%E5%9E%8B)
 	- [四、软件测试模型](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_7_%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9E%8B.md#%E5%9B%9B%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9E%8B)
-- [**§ 1.8 - [整理中]**](https://github.com/Lingggao/Software-Testing-Basics)
+- [**§ 1.8 - 软件质量的概念、范围与标准**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_8_%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E8%8C%83%E5%9B%B4%E4%B8%8E%E6%A0%87%E5%87%86.md#-18---%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E8%8C%83%E5%9B%B4%E4%B8%8E%E6%A0%87%E5%87%86)
+	- [一、概念](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_8_%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E8%8C%83%E5%9B%B4%E4%B8%8E%E6%A0%87%E5%87%86.md#%E4%B8%80%E6%A6%82%E5%BF%B5)
+	- [二、范围](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_8_%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E8%8C%83%E5%9B%B4%E4%B8%8E%E6%A0%87%E5%87%86.md#%E4%BA%8C%E8%8C%83%E5%9B%B4)
+	- [三、标准](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_8_%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E8%8C%83%E5%9B%B4%E4%B8%8E%E6%A0%87%E5%87%86.md#%E4%B8%89%E6%A0%87%E5%87%86)
+	- [四、产品质量标准模型](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_8_%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E8%8C%83%E5%9B%B4%E4%B8%8E%E6%A0%87%E5%87%86.md#%E5%9B%9B%E4%BA%A7%E5%93%81%E8%B4%A8%E9%87%8F%E6%A0%87%E5%87%86%E6%A8%A1%E5%9E%8B)
+- [**§ 1.9 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80)
