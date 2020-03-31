@@ -6,6 +6,14 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-blue.svg)](https://en.wikipedia.org/wiki/Markdown) 
 [![CC0-1.0 license](https://img.shields.io/badge/License-Creative_Commons_Zero-blue.svg)](https://github.com/Lingggao/Software-Testing-Basics/blob/master/LICENSE)
 
+![red](https://img.shields.io/badge/L--red)
+![orange](https://img.shields.io/badge/i--orange)
+![yellow](https://img.shields.io/badge/n--yellow)
+![green](https://img.shields.io/badge/g--green)
+![cyan](https://img.shields.io/badge/G--cyan)
+![blue](https://img.shields.io/badge/a--blue)
+![purple](https://img.shields.io/badge/o--purple)
+
 > 作者 - **Ling Gao (高楷修)**  
 > 师承 - **XiaoPeng Li (李晓鹏) | HongXing Cao (曹红杏)**  
 > 学校 - **HNIST (湖南理工学院)**  
