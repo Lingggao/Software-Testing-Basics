@@ -65,7 +65,11 @@
 - [**§ 2.1 - 软件测试环境的备份与恢复**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_1_%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E7%9A%84%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D.md#-21---%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E7%9A%84%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D)
 	- [一、备份](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_1_%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E7%9A%84%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D.md#%E4%B8%80%E5%A4%87%E4%BB%BD)
 	- [二、恢复](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_1_%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E7%9A%84%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D.md#%E4%BA%8C%E6%81%A2%E5%A4%8D)
-- [**§ 2.2 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
+- [**§ 2.2 - 软件测试的策略与方法**](https://github.com/Lingggao/Software-Testing-Basics)
+	- [一、软件测试工作的难度]()
+	- [二、软件测试策略]()
+	- [三、软件测试方法]()
+- [**§ 2.3 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80)
