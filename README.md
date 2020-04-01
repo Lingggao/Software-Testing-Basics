@@ -1,6 +1,6 @@
 # 软件测试基础
 
-## 简介
+## 简 介
 
 **Ling Gao 的 软件测试基础 学习笔记** :stuck_out_tongue_closed_eyes:
 
