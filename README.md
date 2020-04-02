@@ -72,7 +72,7 @@
 - [**§ 2.2 - 软件测试的策略**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_2_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E7%AD%96%E7%95%A5.md#-22---%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E7%AD%96%E7%95%A5)
 	- [一、软件测试工作的难度](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_2_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E7%AD%96%E7%95%A5.md#%E4%B8%80%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%9A%BE%E5%BA%A6)
 	- [二、软件测试策略](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_2_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E7%AD%96%E7%95%A5.md#%E4%BA%8C%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%AD%96%E7%95%A5)
-- [**§ 2.3 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
+- [**§ 2.3 - 软件测试的方法**](https://github.com/Lingggao/Software-Testing-Basics)
 - [**§ 2.4 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
 - [**§ 2.5 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
 
