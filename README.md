@@ -1,6 +1,6 @@
 # 软件测试基础
 
-## 简 介
+## 一、简介
 
 **Ling Gao 的 软件测试基础 学习笔记** :stuck_out_tongue_closed_eyes:
 
@@ -17,7 +17,7 @@
 > 学校 - **HNIST (湖南理工学院)**  
 > 许可证 - **Creative Commons Zero v1.0 Universal**
 
-## 目 录
+## 二、目录
 
 ### 第 一 章
 
