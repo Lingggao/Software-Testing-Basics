@@ -4,7 +4,9 @@
 
 **Ling Gao 的 软件测试基础 学习笔记** :stuck_out_tongue_closed_eyes:
 
-虽然下面的这些只是我的**个人学习笔记**，但是为了整理与校对这些笔记，我还是花费了很长的时间的，毕竟 **“追求完美”** 是每个软件测试工程师都应当具备的基本态度。笔记中的图片大部分是我亲自绘制的，我希望这些笔记可以为 **“以软件测试工作为职业路径”** 的朋友们提供一些学习方面的帮助。在此，我要衷心感谢**李晓鹏**教师的教导，同时感谢各位朋友们的支持。
+虽然下面的这些只是我的**个人学习笔记**，但是为了整理与校对这些笔记，我还是花费了很长的时间的，毕竟 **“追求完美”** 是每个软件测试工程师都应当具备的基本态度。笔记中的图片大部分是我亲自绘制的，我希望这些笔记可以为 **“以软件测试工作为职业路径”** 的朋友们提供一些学习方面的帮助。
+
+在此，我要衷心感谢**李晓鹏**教师的言传身教，感谢各位朋友们的支持。
 
 [![Ling Gao](https://img.shields.io/badge/Author-Ling_Gao-blue)](https://answers.microsoft.com/zh-hans/profile/4e1113c0-eb29-4e90-9782-f1931bae8489)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-blue.svg)](https://en.wikipedia.org/wiki/Markdown) 
