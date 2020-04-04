@@ -79,9 +79,9 @@
 	- [二、白盒测试与黑盒测试](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_3_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E6%96%B9%E6%B3%95.md#%E4%BA%8C%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E4%B8%8E%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95)
 	- [三、手工测试与自动化测试](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_3_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E6%96%B9%E6%B3%95.md#%E4%B8%89%E6%89%8B%E5%B7%A5%E6%B5%8B%E8%AF%95%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95)
 - [**§ 2.4 - 软件测试用例详解**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%AF%A6%E8%A7%A3.md#-24---%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%AF%A6%E8%A7%A3)
-	- [一、概念]()
-	- [二、内容与格式]()
-	- [三、更新与维护]()
+	- [一、概念](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%AF%A6%E8%A7%A3.md#%E4%B8%80%E6%A6%82%E5%BF%B5)
+	- [二、内容与格式](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%AF%A6%E8%A7%A3.md#%E4%BA%8C%E5%86%85%E5%AE%B9%E4%B8%8E%E6%A0%BC%E5%BC%8F)
+	- [三、更新与维护](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_4_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%AF%A6%E8%A7%A3.md#%E4%B8%89%E6%9B%B4%E6%96%B0%E4%B8%8E%E7%BB%B4%E6%8A%A4)
 - [**§ 2.5 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
 
 ---
