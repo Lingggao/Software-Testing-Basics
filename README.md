@@ -86,8 +86,10 @@
 	- [一、黑盒测试技术的常用方法](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_5_%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E4%B8%80%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E7%9A%84%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95)
 	- [二、等价类划分法](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_5_%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E4%BA%8C%E7%AD%89%E4%BB%B7%E7%B1%BB%E5%88%92%E5%88%86%E6%B3%95)
 	- [三、边界值划分法]()
-	- [四、在写了，在写了！]()
-- [**§ 2.6 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
+	- [四、错误推测法 - [ 整理中 ]]()
+	- [五、控件的黑盒测试方法 - [ 整理中 ]]()
+- [**§ 2.6 - 白盒测试技术详解 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
+- [**§ 2.7 - ？- [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80)
