@@ -89,7 +89,10 @@
 	- [四、错误推测法](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_5_%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E5%9B%9B%E9%94%99%E8%AF%AF%E6%8E%A8%E6%B5%8B%E6%B3%95)
 	- [五、控件的黑盒测试方法](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_5_%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E4%BA%94%E6%8E%A7%E4%BB%B6%E7%9A%84%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E6%96%B9%E6%B3%95)
 - [**§ 2.6 - 白盒测试技术详解 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_6_%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#-26---%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3)
-- [**§ 2.7 - ？- [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
+	- [一、概念](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_6_%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E4%B8%80%E6%A6%82%E5%BF%B5)
+	- [二、[整理中]]()
+- [**§ 2.7 - 软件缺陷详解 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
+- [**§ 2.8 - ？- [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80)
