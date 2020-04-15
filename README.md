@@ -82,7 +82,7 @@
 	- [五、控件的黑盒测试方法](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_5_%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E4%BA%94%E6%8E%A7%E4%BB%B6%E7%9A%84%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E6%96%B9%E6%B3%95)
 - [**§ 2.6 - 白盒测试技术详解 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_6_%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#-26---%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3)
 	- [一、概念](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_6_%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E4%B8%80%E6%A6%82%E5%BF%B5)
-	- [二、[整理中]]()
+	- [二、逻辑驱动覆盖测试](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_6_%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E4%BA%8C%E9%80%BB%E8%BE%91%E9%A9%B1%E5%8A%A8%E8%A6%86%E7%9B%96%E6%B5%8B%E8%AF%95)
 - [**§ 2.7 - 软件缺陷详解 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
 - [**§ 2.8 - ？- [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
 
