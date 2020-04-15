@@ -2,7 +2,7 @@
 
 虽然下面的这些只是我的**个人学习笔记**，但是为了整理与校对这些笔记，我还是花费了很长的时间的，毕竟 **“追求完美”** 是每个软件测试工程师都应当具备的基本态度。笔记中的图片大部分是我亲自绘制的，我希望这些笔记可以为 **“以软件测试工作为职业路径”** 的朋友们提供一些学习方面的帮助。
 
-在此，我衷心感谢河北师范大学**李晓鹏**教师的言传身教，感谢各位朋友们的支持。
+在此，我衷心感谢中国河北师范大学**李晓鹏教师**与中国科学院**曹红杏硕士**的言传身教，感谢各位朋友们的支持。
 
 > 作者 - **Ling Gao ([高楷修](https://answers.microsoft.com/zh-hans/profile/4e1113c0-eb29-4e90-9782-f1931bae8489))**  
 > 师承 - **XiaoPeng Li ([李晓鹏](https://edu.csdn.net/lecturer/245)) | HongXing Cao ([曹红杏](http://www.scholat.com/caohx))**  
@@ -87,4 +87,4 @@
 - [**§ 2.8 - ？- [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics)
 
 ---
-[**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80)
+[**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
