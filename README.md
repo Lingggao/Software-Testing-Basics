@@ -1,8 +1,4 @@
-# 软件测试基础
-
-## 一、简介
-
-**Ling Gao 的 软件测试基础 学习笔记** :stuck_out_tongue_closed_eyes:
+# 软件测试基础学习笔记
 
 虽然下面的这些只是我的**个人学习笔记**，但是为了整理与校对这些笔记，我还是花费了很长的时间的，毕竟 **“追求完美”** 是每个软件测试工程师都应当具备的基本态度。笔记中的图片大部分是我亲自绘制的，我希望这些笔记可以为 **“以软件测试工作为职业路径”** 的朋友们提供一些学习方面的帮助。
 
@@ -13,9 +9,9 @@
 > 学校 - **HNIST ([湖南理工学院](http://www.hnist.cn/))**  
 > 许可证 - **[Creative Commons Zero v1.0 Universal](https://github.com/Lingggao/Software-Testing-Basics/blob/master/LICENSE)**
 
-## 二、目录
+# 目录
 
-### 第 一 章
+### 基础篇
 
 - [**§ 1.1 - 软件测试发展史**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_1_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2.md#-11---%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2)
 	- [一、软件测试行业发展历程](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_1_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2.md#%E4%B8%80%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B)
@@ -62,7 +58,7 @@
 	- [二、流程详解](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_10_%E6%B5%8B%E8%AF%95%E7%9A%84%E6%B5%81%E7%A8%8B%E4%B8%8E%E8%AE%A1%E5%88%92.md#%E4%BA%8C%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3)
 	- [三、软件测试计划](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_10_%E6%B5%8B%E8%AF%95%E7%9A%84%E6%B5%81%E7%A8%8B%E4%B8%8E%E8%AE%A1%E5%88%92.md#%E4%B8%89%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E8%AE%A1%E5%88%92)
 
-### 第 二 章
+### 详解篇
 
 - [**§ 2.1 - 软件测试环境的备份与恢复**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_1_%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E7%9A%84%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D.md#-21---%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E7%9A%84%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D)
 	- [一、备份](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_1_%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E7%9A%84%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D.md#%E4%B8%80%E5%A4%87%E4%BB%BD)
