@@ -86,7 +86,7 @@
 	- [三、测试题](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_6_%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E4%B8%89%E6%B5%8B%E8%AF%95%E9%A2%98)
 - [**§ 2.7 - 软件缺陷详解 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#-27---%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3)
 	- [一、概念](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E4%B8%80%E6%A6%82%E5%BF%B5)
-	- [二、]()
+	- [二、软件缺陷的产生原因]()
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
