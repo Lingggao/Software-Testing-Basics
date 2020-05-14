@@ -90,6 +90,7 @@
 	- [三、软件缺陷的严重性与优先级](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E4%B8%89%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E7%9A%84%E4%B8%A5%E9%87%8D%E6%80%A7%E4%B8%8E%E4%BC%98%E5%85%88%E7%BA%A7)
 	- [四、软件缺陷的生命周期](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E5%9B%9B%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
 	- [五、软件缺陷报告的编写](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E4%BA%94%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%E7%9A%84%E7%BC%96%E5%86%99)
+	- [六、示例]()
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
