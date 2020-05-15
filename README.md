@@ -84,13 +84,19 @@
 	- [一、概念](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_6_%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E4%B8%80%E6%A6%82%E5%BF%B5)
 	- [二、逻辑驱动覆盖测试](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_6_%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E4%BA%8C%E9%80%BB%E8%BE%91%E9%A9%B1%E5%8A%A8%E8%A6%86%E7%9B%96%E6%B5%8B%E8%AF%95)
 	- [三、测试题](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_6_%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md#%E4%B8%89%E6%B5%8B%E8%AF%95%E9%A2%98)
-- [**§ 2.7 - 软件缺陷详解 - [ 整理中 ]**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#-27---%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3)
+- [**§ 2.7 - 软件缺陷详解**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#-27---%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3)
 	- [一、概念](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E4%B8%80%E6%A6%82%E5%BF%B5)
 	- [二、软件缺陷的产生原因](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E4%BA%8C%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E7%9A%84%E4%BA%A7%E7%94%9F%E5%8E%9F%E5%9B%A0)
 	- [三、软件缺陷的严重性与优先级](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E4%B8%89%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E7%9A%84%E4%B8%A5%E9%87%8D%E6%80%A7%E4%B8%8E%E4%BC%98%E5%85%88%E7%BA%A7)
 	- [四、软件缺陷的生命周期](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E5%9B%9B%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
 	- [五、软件缺陷报告的编写](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E4%BA%94%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%E7%9A%84%E7%BC%96%E5%86%99)
 	- [六、示例](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E5%85%AD%E7%A4%BA%E4%BE%8B)
+
+### 提升篇
+
+- [**§ 3.1 - 单元测试详解 - [整理中]**]()
+
+
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
