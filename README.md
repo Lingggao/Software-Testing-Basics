@@ -100,10 +100,11 @@
 	- [一、概念](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_1_%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E4%B8%80%E6%A6%82%E5%BF%B5)
 	- [二、测试内容](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_1_%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E4%BA%8C%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9)
 	- [三、辅助测试模块](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_1_%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E4%B8%89%E8%BE%85%E5%8A%A9%E6%B5%8B%E8%AF%95%E6%A8%A1%E5%9D%97)
-- [**§ 3.2 - 集成测试详解 - [整理中]**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_2_%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#-32---%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3)
+- [**§ 3.2 - 集成测试详解**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_2_%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#-32---%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3)
 	- [一、概念](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_2_%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E4%B8%80%E6%A6%82%E5%BF%B5)
 	- [二、测试内容](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_2_%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E4%BA%8C%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9)
 	- [三、测试形式](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_2_%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E4%B8%89%E6%B5%8B%E8%AF%95%E5%BD%A2%E5%BC%8F)
+- [**§ 3.3 - 系统测试详解 - [整理中]**]()
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
