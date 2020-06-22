@@ -8,7 +8,7 @@
 
 > 作者 - **Ling Gao ([高楷修](https://answers.microsoft.com/zh-hans/profile/4e1113c0-eb29-4e90-9782-f1931bae8489))**  
 > 师承 - **XiaoPeng Li ([李晓鹏](http://software.hebtu.edu.cn/a/2013/03/20/1494554962365.html)) | HongXing Cao ([曹红杏](http://www.scholat.com/caohx))**  
-> 学校 - **HNIST ([湖南理工学院](http://www.hnist.cn/))**  
+> 学校 - **HNIST_SISE ([湖南理工学院](http://www.hnist.cn/) [信息科学与工程学院](http://sice.hnist.cn/)) **  
 > 许可证 - **[Creative Commons Zero v1.0 Universal](https://github.com/Lingggao/Software-Testing-Basics/blob/master/LICENSE)**
 
 # 目录
