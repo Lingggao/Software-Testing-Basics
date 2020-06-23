@@ -13,7 +13,7 @@
 
 # 目录
 
-### 基础篇
+### 新手村
 
 - [**§ 1.1 - 软件测试发展史**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_1_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2.md#-11---%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2)
 	- [一、软件测试行业发展历程](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_1_%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B1%95%E5%8F%B2.md#%E4%B8%80%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B)
@@ -60,7 +60,7 @@
 	- [二、流程详解](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_10_%E6%B5%8B%E8%AF%95%E7%9A%84%E6%B5%81%E7%A8%8B%E4%B8%8E%E8%AE%A1%E5%88%92.md#%E4%BA%8C%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3)
 	- [三、软件测试计划](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0/1_10_%E6%B5%8B%E8%AF%95%E7%9A%84%E6%B5%81%E7%A8%8B%E4%B8%8E%E8%AE%A1%E5%88%92.md#%E4%B8%89%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E8%AE%A1%E5%88%92)
 
-### 详解篇
+### 主线任务
 
 - [**§ 2.1 - 软件测试环境的备份与恢复**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_1_%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E7%9A%84%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D.md#-21---%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E7%9A%84%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D)
 	- [一、备份](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_1_%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E7%9A%84%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D.md#%E4%B8%80%E5%A4%87%E4%BB%BD)
@@ -94,7 +94,7 @@
 	- [五、软件缺陷报告的编写](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E4%BA%94%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%E7%9A%84%E7%BC%96%E5%86%99)
 	- [六、示例](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0/2_7_%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E8%AF%A6%E8%A7%A3.md#%E5%85%AD%E7%A4%BA%E4%BE%8B)
 
-### 提升篇
+### 支线任务
 
 - [**§ 3.1 - 单元测试详解**](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_1_%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#-31---%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3)
 	- [一、概念](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_1_%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E4%B8%80%E6%A6%82%E5%BF%B5)
