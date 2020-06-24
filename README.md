@@ -108,9 +108,9 @@
 	- [一、概念](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_3_%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E4%B8%80%E6%A6%82%E5%BF%B5)
 	- [二、功能测试](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_3_%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E4%BA%8C%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95)
 	- [三、兼容性测试](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_3_%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E4%B8%89%E5%85%BC%E5%AE%B9%E6%80%A7%E6%B5%8B%E8%AF%95)
-	- [四、界面测试]()
-	- [五、易用性测试]()
-	- [六、性能测试]()
+	- [四、界面测试](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_3_%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E5%9B%9B%E7%95%8C%E9%9D%A2%E6%B5%8B%E8%AF%95)
+	- [五、易用性测试](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_3_%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E4%BA%94%E6%98%93%E7%94%A8%E6%80%A7%E6%B5%8B%E8%AF%95)
+	- [六、性能测试](https://github.com/Lingggao/Software-Testing-Basics/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0/3_3_%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%A7%A3.md#%E5%85%AD%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95)
 
 ---
 [**回到顶部**](https://github.com/Lingggao/Software-Testing-Basics#%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
